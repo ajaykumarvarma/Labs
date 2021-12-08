@@ -1,0 +1,68 @@
+1)What is difference between heading,title and body?
+ans)
+ 
+title:-
+The Title Tag is a meta tag: it's in the head of the page, that is not part of the actual content. You won't see the title tag on the page, other than at the top of your browser screen. 
+The title tag is relevant for SEO for two reasons:
+ 
+It's a hint to Google what your page is about
+It is shown in the SERP as the link searchers click on to visit your page.
+ 
+Heading:-
+a Heading or H1 is visible on the page. In other words. It's usually the most prominent text, and tells a visitor what to expect on that page.
+ 
+Here is the example of H1 on the main page of a website
+ 
+ 
+body tag:-
+The HTML <body> tag defines the main content of the HTML document or the section of the HTML document that will be directly visible on your web page. This tag is also commonly referred to as the <body> element
+The <body> tag defines the document's body.
+ 
+The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc
+ 
+2)What is difference between web application and mobile application?
+ans)
+A difference between these two types of apps is that web apps require an active Internet connection in order to function, whereas mobile apps can often function while offline
+Mobile apps tend to be faster and more efficient than web apps, but in order to maintain optimum functionality, users must regularly download updates, whereas web apps update themselves
+Function in-browser, and therefore do not need to be downloaded or installed  whereas mobile application need to install
+webapps easier and faster to build than mobile apps 
+speed:-mobile application faster and web are slow
+application is more than web application.
+ 
+3)List out various categories of tags?
+ans)
+1)Basic HTML Tags
+2)Formatting HTML Tags
+3)Forms and Input Tags
+4)Frame Tags
+5)Images Tags
+6)Audio/Video Tags
+7)Link Tags
+8)List Tags
+9)Table Tags
+10)Style and Semantic Tags
+11)Programming Tags
+12)Meta Tags
+ 
+4)resume
+code:-
+ 
+<html>
+ 
+<body bgcolor="azure"> 
+ 
+</head>
+<body>
+ 
+<center><h1 align="center" style="color:red;"><b><i><u>Resume</u></i></b></h1></center>
+<h2 style="color:blue;">AJAY:</h2>
+ 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbbN094UmLi5isL9EjLPj97Ev3ZKX-Odyow&usqp=CAU" alt="VRSEC" align=right width="200" height="200">
+<h2 style="color:darkblue;">N.Ajay Kumar Varma</h3>
+<h4 style="color:green;">9392593332</h4>
+<h4 style="color:tomato;">ajaynagaraju32@gmail.com</h4>
+<h4 style="color:DodgerBlue;">ajaykumar32</h4>
+ 
+<b><i><p>I'm Ajay Kumar Varma studying btech Second year in vrsec in branch of Information Technology.I have completed my intermediate in Narayana college vijayawada and my tenth class in Narayana school.My goal is to become a software engineer and cyber security.My dream company is amazon,and any good cyber security related company.Iam well interested in bug bounty,programming,ethical hacking.My dream package is above 12 lakh.My hobbies are reading books,completing courses and get certificates,learning new things etc.. and Coming to my parents details my father name is ncs raju and mother name is Sireesha.My father occupation is pvt employee and my mother is house wife.My role model is my sister.</p></i></b>
+</body>
+</html>
