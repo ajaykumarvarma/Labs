@@ -6,6 +6,7 @@ syntax (tags) used are:
 <th> create columns
 <td> table data
 code for table is below:
+question no:1)creating table
 
 <table border="2" width="670" height="275" bordercolor="chocolate" bgcolor="azure" >
         <tr>
@@ -43,3 +44,31 @@ code for table is below:
         </tr>
         
     </table>
+2)use rowspan and column span
+ans)
+1st-->rowspan
+<html>
+  <body>
+  <table border="2" width="440" height="250" bordercolor="chocolate" bgcolor="azure" >
+    <tr>
+      <th>Name</th>
+      <th>Earning</th>
+      <th>Rent</th>
+      
+      </tr>
+     <tr>
+        <td align="center">Ajay</td>
+       <td align="center">$1000</td>
+       <td rowspan="2" align="center">50$</td>
+     </tr>  
+     <tr>
+        <td align="center">Sai</td>
+       <td align="center">$500</td>
+       
+     </tr> 
+  </table>  
+    </body>
+</html> 
+
+2nd-->column span
+
